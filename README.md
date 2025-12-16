@@ -19,7 +19,7 @@
 [commit-url]: https://github.com/Michael-Steenkamp/Chinese/graphs/commit-activity
 [stars-shield]: https://custom-icon-badges.demolab.com/github/stars/Michael-Steenkamp/Chinese?style=plastic&logoColor=white&logo=star&color=F2E8CF
 [stars-url]: https://github.com/Michael-Steenkamp/Chinese/stargazers
-[issues-shield]: https://custom-icon-badges.demolab.com/github/issues/Michael-Steenkamp/Chinese?style=plastic&logoColor=white&logo=issue-open&color=F2E8CF
+[issues-shield]: https://custom-icon-badges.demolab.com/github/issues/Michael-Steenkamp/Chinese?style=plastic&logoColor=white&logo=issue-open&color=BC4749
 [issues-url]: https://github.com/Michael-Steenkamp/Chinese/issues
 [license-shield]: https://custom-icon-badges.demolab.com/github/license/Michael-Steenkamp/Chinese?style=plastic&logoColor=white&logo=law&color=C2585A
 [license-url]: https://github.com/Michael-Steenkamp/Chinese/blob/main/LICENSE
