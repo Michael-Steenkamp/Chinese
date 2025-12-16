@@ -1,7 +1,11 @@
 <a id="readme-top"></a>
+<div align="center">
+<h1>:school_satchel: Chinese :cn:</h1>
+</div>
 
+<div align="center">
+  
 <!-- Badges -->
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Commit][commit-shield]][commit-url]
@@ -9,8 +13,37 @@
 [![Issues][issues-shield]][issues-url]
 [![License][license-shield]][license-url]
 
-<!-- Reference Style Links -->
+</div>
 
+<div align="center">
+<h2>:page_facing_up: Vocabulary</h2>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/4a11e13c-83b6-4e9d-91d4-abe4360b4755" width="500" /></td>
+    <td><img src="https://github.com/user-attachments/assets/1b36b13a-68e0-4afe-8643-602fb22b8b7b" width="500" /></td>
+    <td><img src="https://github.com/user-attachments/assets/876d7690-e4aa-46e1-b643-b50170ba9737" width="500" /></td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+
+**愛**
+<br>
+Consider giving the repo a star! 🌟
+
+[![Stars][stars-shield]][stars-url]
+[![Forks][forks-shield]][forks-url]
+[![License][license-shield]][license-url]
+<br>
+
+[**:arrow_up: Back to Top**](#readme-top)
+
+</div>
+
+
+
+<!-- Reference Style Links -->
 [contributors-shield]: https://custom-icon-badges.demolab.com/github/contributors/Michael-Steenkamp/Chinese?style=plastic&logoColor=white&logo=person&color=90002D
 [contributors-url]: https://github.com/Michael-Steenkamp/Chinese/graphs/contributors
 [forks-shield]: https://custom-icon-badges.demolab.com/github/forks/Michael-Steenkamp/Chinese?style=plastic&logoColor=white&logo=repo-forked&color=9E0031
