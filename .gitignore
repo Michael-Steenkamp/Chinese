@@ -3,3 +3,4 @@
 
 # Vocabulary
 /Vocabulary/progress/*
+!/Vocabulary/progress/.gitkeep
