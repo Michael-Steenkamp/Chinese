@@ -8,10 +8,6 @@ from typing import Any, Dict, List, Tuple
 # ==========================================
 # -------- Penalties and Rewards -----------
 # ==========================================
-# New values to create a more balanced system.
-# It now takes ~4 correct answers (base reward) to
-# counteract 1 incorrect penalty.
-# This rewards consistency.
 PENALTY_HINT = 1.5
 PENALTY_SKIP = 3.0
 PENALTY_INCORRECT = 4.0
@@ -31,6 +27,7 @@ DEFAULT_HSK = 1
 # ==========================================
 # ------------ Global Flags ----------------
 # ==========================================
+# DEFAULT VALUES - SET THESE FOR DEFAULT PREFERENCES
 # These will be set by user input
 g_chinese_to_english = True
 g_random_mode = True
@@ -50,17 +47,15 @@ g_in_order_index = 0  # Used only if g_random_mode is False
 # ==========================================
 # ----------------- Icons ------------------
 # ==========================================
-# (From your existing code)
-icon_proficiency = "🧠"  # nf-fa-poll (for the weight/proficiency %)
-icon_time = "  "         # nf-fa-clock_o (for total time)
-icon_streak = "  "       # nf-fa-bolt (lightning bolt)
-icon_accuracy = "  "    # nf-fa-bullseye (a good one for accuracy)
-# (New icons)
-icon_seen = "  "         # nf-fa-eye (for "words seen")
-icon_mastery = "⭐"      # nf-fa-star (for "words mastered")
-icon_warning = "⚠"      # nf-fa-warning (for hints, etc.)
-icon_correct = "✔ "      # nf-fa-check
-icon_incorrect = "✖ "    # nf-fa-times
+icon_proficiency = "🧠"
+icon_time = "  "
+icon_streak = "  "
+icon_accuracy = "  "
+icon_seen = "  "
+icon_mastery = "⭐"
+icon_warning = "⚠"
+icon_correct = "✔ "
+icon_incorrect = "✖ "
 # ==========================================
 # ----------- Helper Functions -------------
 # ==========================================
